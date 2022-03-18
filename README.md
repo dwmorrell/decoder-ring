@@ -2,7 +2,7 @@
 ---
 This is a project that utilizes a caesar shift, polybius, and substitution method for decoding and encoding messages.
 
-##Summary
+## Summary
 ---
 This project was designed to test the ability to build tricky algoriths in JavaScript as well as write unit tests with Mocha and Chai. Any HTML or CSS was supplied with the starter code. The following skills were utilized:
 - Installing packages via NPM
